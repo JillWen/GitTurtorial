@@ -3,3 +3,5 @@ git基本操作学习
 test
 add a new row
 - feature-A test branch
+fix-B
+靠readme
